@@ -6,3 +6,5 @@ Bananas
 Peach
 Pinapple
 Milk
+Salmon
+Butter
